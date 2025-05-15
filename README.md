@@ -17,6 +17,8 @@ To build a professional and interactive HR analytics dashboard that enables:
 
 ## 🧩 Key Features
 
+![Dashboard Screenshot](https://github.com/hanhpham173/HR_Tableau/blob/8d9976ffc1c3dd64ee8741dc1bed1191de8d7b5a/Atlas_HR.JPG)  
+
 ### 1. Employee Overview  
 - Total headcount by year, department, and gender  
 - Visual breakdown by job role and status (active/terminated)
