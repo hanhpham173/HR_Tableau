@@ -1,99 +1,97 @@
 # 👥 Atlas HR Dashboard – Tableau Project
 
 ## 📊 Overview  
-This Tableau project presents a comprehensive **HR analytics dashboard** designed to visualize key workforce metrics. It enables stakeholders to monitor **employee attrition**, **hiring patterns**, **departmental performance**, and **diversity trends** across the organization. The dashboard supports interactive filtering and dynamic data exploration to inform strategic HR decisions.
+This Tableau project presents a comprehensive and interactive **HR analytics dashboard** focused on **employee attrition**, **hiring trends**, **demographics**, and **tenure analysis**. The dashboard provides clear visibility into workforce dynamics, helping HR professionals make informed decisions to reduce turnover and optimize hiring and retention strategies.
 
 ---
 
 ## 🎯 Project Objective  
-To build a professional and interactive HR analytics dashboard that enables:
+To build a strategic HR dashboard that enables:
 
-- Real-time monitoring of workforce trends  
-- Identification of attrition risks and patterns  
-- Analysis of diversity and departmental KPIs  
-- Data-driven decision-making for HR planning
+- Monitoring of current and past employee distribution  
+- Identifying attrition patterns by date, tenure, and travel frequency  
+- Understanding workforce demographics and diversity  
+- Supporting evidence-based HR decisions
 
 ---
 
 ## 🧩 Key Features
 
-![Dashboard Screenshot](https://github.com/hanhpham173/HR_Tableau/blob/8d9976ffc1c3dd64ee8741dc1bed1191de8d7b5a/Atlas_HR.JPG)  
+![Dashboard Screenshot](Atlas_HR.JPG)
 
 ### 1. Employee Overview  
-- Total headcount by year, department, and gender  
-- Visual breakdown by job role and status (active/terminated)
+- Total Employees, Active Employees, Past Employees  
+- Overall Attrition Rate (%)  
+- Hiring trends over time (2013–2023)
 
-### 2. Attrition Analysis  
-- Monthly and yearly attrition trends  
-- Heatmap of attrition by department and location  
-- Key drivers of turnover based on filters (age, tenure, etc.)
+### 2. Demographics and Marital Status  
+- Employee age distribution (e.g., majority between 20–29)  
+- Pie chart breakdown of marital status across the organization
 
-### 3. Hiring Pipeline  
-- Hires vs. separations over time  
-- New hire demographics and department allocation  
-- Onboarding funnel visualized by stage or time period
-
-### 4. Diversity Metrics  
-- Gender distribution by role and level  
-- Ethnicity breakdown across departments  
-- Age groups and seniority levels in workforce composition
+### 3. Attrition Analysis  
+- **Attrition by Hire Date**: Monthly pattern of resignations  
+- **Attrition by Business Travel**: Correlation between travel frequency and attrition risk  
+- **Attrition by Tenure**: Comparison of attrition across years of service
 
 ---
 
 ## 📈 Dashboard Highlights
 
-- Interactive filters: department, region, job level, date range  
-- Tooltips with contextual insights on hover  
-- Time-based trend analysis with built-in hierarchy (year → month)  
-- Export-ready charts for executive reporting
+- 📌 1,470 total employees analyzed, with 237 attritions (16.1%)  
+- 📅 Peak hiring and attrition patterns identified by month and year  
+- 📊 Travel-heavy employees (frequent travelers) show higher attrition risk  
+- 📈 Early-tenure employees (0–2 years) account for a large portion of turnover  
+- 🎯 Real-time interactivity through dropdown filters and tooltips
 
 ---
 
 ## 🧠 Key Insights
 
-- Certain departments show higher attrition rates over time  
-- Gender balance improves at entry-level roles but narrows at leadership  
-- Seasonal hiring spikes visible in Q1 and Q3  
-- Voluntary separations are more common in early-tenure employees
+- 📉 Highest attrition rates occur within the first 2 years of employment  
+- 🛄 Employees who travel frequently are more likely to leave  
+- 🧑 Most employees fall into the 20–29 age range, indicating a younger workforce  
+- 💍 Marital status insights may help tailor engagement strategies
 
 ---
 
 ## 📌 Recommendations
 
-1. **Focus Retention Efforts**  
-   Target high-attrition departments with better engagement strategies.
+1. **Target Early-Tenure Engagement**  
+   Develop onboarding and mentorship programs to support employees in their first 2 years.
 
-2. **Promote Diversity in Leadership**  
-   Encourage internal promotion paths and mentorship.
+2. **Review Travel Policies**  
+   Consider alternate roles or flexibility for frequent business travelers to reduce burnout-related turnover.
 
-3. **Optimize Hiring Cycles**  
-   Prepare for Q1/Q3 onboarding by forecasting talent demand.
+3. **Personalize Retention Strategies**  
+   Use demographic and marital data to tailor retention and benefits programs.
 
-4. **Leverage Tenure Analytics**  
-   Provide personalized retention plans for employees in 0–2 year tenure.
+4. **Improve Hiring Cycle Monitoring**  
+   Use hiring trend charts to better align recruitment efforts with business needs.
 
 ---
 
 ## ✅ Conclusion  
-This Tableau project showcases proficiency in:
+This project demonstrates strong Tableau capabilities in:
 
-- ✅ Visual analytics and dashboard storytelling  
-- ✅ HR metrics interpretation and workforce analysis  
-- ✅ UX-friendly design with filters and tooltips  
-- ✅ Effective use of Tableau’s visual best practices
+- ✅ HR analytics and visualization design  
+- ✅ Data storytelling using attrition and demographic KPIs  
+- ✅ Creating dashboards for executive decision-making  
+- ✅ Using filters, charts, and tooltips to create a user-friendly experience
 
-The dashboard enables HR professionals to make **strategic, evidence-based decisions** that enhance workforce planning and employee experience.
+The final dashboard equips HR teams with real-time insight into workforce behavior, attrition risks, and diversity metrics — empowering proactive planning and smarter people decisions.
 
 ---
 
 ## 🛠️ Tools Used  
-- Tableau Desktop (Packaged Workbook: `.twbx`)  
-- Sample HR dataset (or internal anonymized HR data)
+- Tableau Desktop (`.twbx`)  
+- Public/sample HR dataset  
+- Custom visualization features: filters, pie charts, bar graphs, line trends
 
 ---
 
 ## 📎 Files Included  
-- `Atlas HR.twbx` – Packaged Tableau workbook file  
-- *(Optional)* `README.md`, screenshots of key dashboards
+- `Atlas HR.twbx` – Packaged Tableau workbook  
+- `Atlas_HR.JPG` – Main dashboard screenshot  
+- *(Optional)* Exported PDF/PowerPoint or additional screenshots
 
 ---
