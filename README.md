@@ -92,6 +92,8 @@ The final dashboard equips HR teams with real-time insight into workforce behavi
 ## 📎 Files Included  
 - `Atlas HR.twbx` – Packaged Tableau workbook  
 - `Atlas_HR.JPG` – Main dashboard screenshot  
-- *(Optional)* Exported PDF/PowerPoint or additional screenshots
-
+- `Atlas Labs BG.png` – Custom dashboard background image
+- `Employee.csv` – Employee master dataset
+- `EducationLevel.csv` – Education level reference data
+- `PerformanceRating.csv` – Employee performance evaluation data
 ---
